@@ -1,0 +1,16 @@
+body {
+  /* background-color: #232323; */
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 75%;  
+}
+
+.square {
+  width: 9%;
+  background: gray;
+  padding-bottom: 9%;
+  float: left;
+  margin: .5%;
+}
